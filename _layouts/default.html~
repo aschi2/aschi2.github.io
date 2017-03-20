@@ -20,25 +20,12 @@
           <center><h1>Austin Chi</h1></center>
 			<center><h2>{{ site.description | default: site.github.project_tagline }}</h2></center>
         </header>
-	<p><center>This is my data science portfolio. Below you will find links to Labs and Assignments I have completed.</center><br />
+		  <p>This is my data analyst portfolio page, currently under construction.<br />
 		  Here are links to some labs for STA 141B:
 		  <ul>
-			  <li><a href="Lab1.html">Lab 1: Commenting on R code</a></li>
-			  <li><a href="Lab2.html">Lab 2: Basic Python</a></li>
-			  <li><a href="Lab3.html">Lab 3: Basic Analysis and Plotting </a></li>
-			  <li><a href="Lab4.html">Lab 4: More Plotting</a></li>
+			  <li><a href="https://aschi2.github.io/Lab1.html">Lab 1</a></li>
 		  </ul>
-Here are links to some of the Assignments I've worked on.
-<ul>
-  <li><a href="assignement1.html">Assignment 1: Doomsday Calculator</li>
-  <li><a href="assignement2.html">Assignment 2: Photo Manipulation</li>
-  <li><a href="assignement3.html">Assignment 3: Fruit, Vegetables, and Pandas</li>
-  <li><a href="assignement4.html">Assignment 4: No REST for the wicked</li>
-  <li><a href="assignement5.html">Assignemnt 5: Scraping the news</li>
-  <li><a href="assignement6.html">Assignment 6: San Foodsisco</li>
-		  
 		  </p>
-
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
