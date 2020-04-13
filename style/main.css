@@ -59,6 +59,10 @@ p{
 }
 .rounded-video {
     border-radius:20px;
+    z-index: 9;
+}
+.video {
+    z-index:10
 }
 
 .social_icons:hover{
