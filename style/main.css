@@ -72,7 +72,8 @@ p{
 .mynavcustom{
     background: #EAE7DC;
 }
-.mynavcustom > a{
+.mynavcustom > a,
+.mynavcustom > a:visited{
     color: #8E8D8A;
 }
 .mynavcustom > a:hover{
