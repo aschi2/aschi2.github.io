@@ -44,11 +44,11 @@ hr {
     font-size: large;
     color:#8E8D8A;
 }
-.big-body-text.even{
+.even{
     background:#E98074;
     border-radius:20px;
 }
-.big-body-text.odd{
+.odd{
     background:#D8C3A5;
     border-radius:20px;
 }
