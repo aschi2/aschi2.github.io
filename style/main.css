@@ -81,8 +81,8 @@ p{
     color: #8E8D8A;
 }
 /* change the color of active or hovered links */
-.navbar-custom .nav-item.active .nav-link,
-.navbar-custom .nav-item:hover .nav-link {
+.navbar-custom .nav-item.active,
+.navbar-custom .nav-item:hover {
     color: black;
 }
 
