@@ -70,12 +70,19 @@ p{
 #git_icon{
     margin-bottom: 1rem;
     border-radius: 10%;
-    width: 60%;
+    width: 
+    60%;
+}
+#git_icon:hover{
+    opacity: 70%;
 }
 #linkedin_icon{
     margin-bottom: 1rem;
     border-radius: 10%;
     width: 60%;
+}
+#linkedin_icon:hover{
+    opacity: 70%;
 }
 
 #footer{
