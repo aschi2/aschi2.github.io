@@ -28,6 +28,18 @@ h2 {
     color: #8E8D8A;
 }
 
+h3 {
+    text-align: center;
+    color: #E85A4F
+}
+
+hr {
+    width: 50%;
+    height: 12px;
+    color: #E98074;
+    border-radius: 50px;
+}
+
 #top-block{
     background: #D8C3A5;
     border-radius: 0px 0px 15px 15px;
