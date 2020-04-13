@@ -83,7 +83,7 @@ p{
 /* change the color of active or hovered links */
 .navbar-custom .nav-item.active,
 .navbar-custom .nav-item:hover {
-    color: black;
+    color: #E85A4F;
 }
 
 #top-block{
