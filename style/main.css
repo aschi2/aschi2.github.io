@@ -42,6 +42,15 @@ hr {
 
 .big-body-text {
     font-size: large;
+    color:#8E8D8A;
+}
+.big-body-text.even{
+    background:#E98074;
+    border-radius:50px;
+}
+.big-body-text.odd{
+    background:#D8C3A5;
+    border-radius:50px;
 }
 
 #top-block{
