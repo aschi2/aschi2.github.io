@@ -46,11 +46,11 @@ hr {
 }
 .big-body-text.even{
     background:#E98074;
-    border-radius:50px;
+    border-radius:20px;
 }
 .big-body-text.odd{
     background:#D8C3A5;
-    border-radius:50px;
+    border-radius:20px;
 }
 
 #top-block{
