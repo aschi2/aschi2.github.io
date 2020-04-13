@@ -65,6 +65,10 @@ p{
     opacity: .7;
 }
 
+.mynavcustom{
+    background: #E98074;
+    color: #D8C3A5;
+}
 
 #top-block{
     background: #D8C3A5;
@@ -91,10 +95,6 @@ p{
     font-size:small;
 }
 
-#navbar{
-    background: #E98074;
-    color: #D8C3A5;
 
-}
 
 
