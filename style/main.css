@@ -51,7 +51,9 @@ hr {
 
 #git_icon{
     border-radius:30px;
+    max-width: 75%;
 }
 #linkedin_icon{
     border-radius:30px;
+    max-width: 75%;
 }
