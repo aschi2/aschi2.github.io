@@ -40,6 +40,10 @@ hr {
     border-radius: 50px;
 }
 
+p{
+    margin-bottom:0px;
+}
+
 .big-body-text {
     font-size: large;
     color:#8E8D8A;
@@ -54,6 +58,7 @@ hr {
     border-radius:20px;
 }
 
+
 #top-block{
     background: #D8C3A5;
     border-radius: 0px 0px 15px 15px;
@@ -65,4 +70,5 @@ hr {
 #linkedin_icon{
     margin-bottom: 1rem;
 }
+
 
