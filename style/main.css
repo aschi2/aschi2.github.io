@@ -35,9 +35,13 @@ h3 {
 
 hr {
     width: 50%;
-    height: 12px;
+    height: 4px;
     background: #E98074;
     border-radius: 50px;
+}
+
+.big-body-text {
+    font-size: large;
 }
 
 #top-block{
