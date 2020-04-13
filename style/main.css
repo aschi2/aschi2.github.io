@@ -114,6 +114,7 @@ p{
 }
 
 #navbar {
+    width:100%;
     position: fixed; /* Make it stick/fixed */
     top: 0; /* Stay on top */
     transition: top 0.3s; /* Transition effect when sliding down (and up) */
