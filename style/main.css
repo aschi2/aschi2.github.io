@@ -87,6 +87,10 @@ p{
 .navbar-custom .nav-item:hover {
     color: #E85A4F;
 }
+.button{
+    background:#E85A4F;
+    color:#EAE7DC;
+}
 
 #top-block{
     background: #D8C3A5;
