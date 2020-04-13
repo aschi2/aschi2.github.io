@@ -47,7 +47,7 @@ p{
 .big-body-text {
     font-size: large;
     color:#8E8D8A;
-    vertical-align: middle;
+    align-self: center;
 }
 .even{
     background:#E98074;
