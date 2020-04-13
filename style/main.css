@@ -48,3 +48,10 @@ hr {
     background: #D8C3A5;
     border-radius: 0px 0px 15px 15px;
 }
+
+#git_icon{
+    border-radius:30px;
+}
+#linkedin_icon{
+    border-radius:30px;
+}
