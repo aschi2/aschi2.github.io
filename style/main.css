@@ -57,6 +57,9 @@ p{
     background:#D8C3A5;
     border-radius:20px;
 }
+.rounded-video {
+    border-radius:20px;
+}
 
 
 #top-block{
