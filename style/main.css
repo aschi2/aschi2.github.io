@@ -61,6 +61,10 @@ p{
     border-radius:20px;
 }
 
+.social_icons:hover{
+    opacity: .7;
+}
+
 
 #top-block{
     background: #D8C3A5;
@@ -70,20 +74,15 @@ p{
 #git_icon{
     margin-bottom: 1rem;
     border-radius: 10%;
-    width: 
-    60%;
+    width: 60%;
 }
-#git_icon:hover{
-    opacity: 70%;
-}
+
 #linkedin_icon{
     margin-bottom: 1rem;
     border-radius: 10%;
     width: 60%;
 }
-#linkedin_icon:hover{
-    opacity: 70%;
-}
+
 
 #footer{
     background: #D8C3A5;
