@@ -1,17 +1,34 @@
+/*
+Color Pallete
+
+
+Dark Orange : #E85A4F
+Light Orange: #E98074
+Gray : #8E8D8A
+Tan : #D8C3A5
+Off White: #EAE7DC
+
+
+*/
+
+
+
 body {
     font-family: 'Arvo', serif;
+    background: #EAE7DC;
 
 }
 
 h1 {
     text-align: center;
+    color: #E85A4F;
 }
 h2 {
     text-align: center;
-    color: gray;
+    color: #8E8D8A;
 }
 
 #top-block{
-    background: lightgreen;
+    background: #D8C3A5;
     border-radius: 0px 0px 50px 50px;
 }
