@@ -66,8 +66,13 @@ p{
 }
 
 .mynavcustom{
-    background: #E98074;
-    color: #D8C3A5;
+    background: #EAE7DC;
+}
+.mynavcustom > a{
+    color: #8E8D8A;
+}
+.mynavcustom > a:hover{
+    color: black;
 }
 
 #top-block{
