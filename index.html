@@ -15,6 +15,21 @@
 
 <body data-spy="scroll" data-target=".navbar" data-offset="10">
 
+    <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+        document.getElementById("navbar").style.top = "0";
+        } else {
+        document.getElementById("navbar").style.top = "-50px";
+        }
+    prevScrollpos = currentScrollPos;
+    }
+    </script>
+
+
+
     <nav class="navbar navbar-expand-xl navbar-custom" >
         <a class="navbar-brand" href="#">Navigation</a>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
