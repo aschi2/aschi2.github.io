@@ -87,9 +87,14 @@ p{
 .navbar-custom .nav-item:hover {
     color: #E85A4F;
 }
-.btn{
-    background:#E85A4F;
-    color:#EAE7DC;
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #E85A4F;
+    border-color: #8E8D8A;
+    color:#8E8D8A
 }
 
 #top-block{
