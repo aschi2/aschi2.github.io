@@ -69,12 +69,7 @@ p{
 .social_icons:hover{
     opacity: .7;
 }
-#navbar {
-    position: fixed; /* Make it stick/fixed */
-    top: 0; /* Stay on top */
-    transition: top 0.3s; /* Transition effect when sliding down (and up) */
-    z-index: 11;
-  }
+
 
 .navbar-custom {
     background-color: #EAE7DC;
@@ -116,6 +111,13 @@ p{
     border-radius: 15px 15px 0px 0px;
     color:#8E8D8A;
     font-size:small;
+}
+
+#navbar {
+    position: fixed; /* Make it stick/fixed */
+    top: 0; /* Stay on top */
+    transition: top 0.3s; /* Transition effect when sliding down (and up) */
+    z-index: 11;
 }
 
 
