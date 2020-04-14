@@ -47,16 +47,17 @@ p{
 
 .big-body-text {
     font-size: large;
-    color:#EAE7DC;
     align-self: center;
 }
 .even{
     background:#E98074;
     border-radius:20px;
+    color:#EAE7DC;
 }
 .odd{
     background:#D8C3A5;
     border-radius:20px;
+    color:#8E8D8A;
 }
 .rounded-video {
     border-radius:20px;
