@@ -91,6 +91,7 @@ p{
 .cover {
     position:relative;
     z-index: 12;
+    opacity:0;
 }
 .btn-primary{color:#D8C3A5;background-color:#E85A4F;border-color:#595756}
 .btn-primary:hover{color:#D8C3A5;background-color:#E85A4F;border-color:#009a9a}
