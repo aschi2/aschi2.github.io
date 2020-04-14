@@ -88,11 +88,7 @@ p{
 .navbar-custom .nav-item:hover {
     color: #E85A4F;
 }
-.cover {
-    position:relative;
-    z-index: 12;
-    background: rgba(0,0,0,0)
-}
+
 .btn-primary{color:#D8C3A5;background-color:#E85A4F;border-color:#595756}
 .btn-primary:hover{color:#D8C3A5;background-color:#E85A4F;border-color:#009a9a}
 .btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 .2rem #595756}
